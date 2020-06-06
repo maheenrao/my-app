@@ -5,8 +5,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          welcome<code></code> to my first react anum is so lazy.
+         <h1>welcome to my first react</h1> 
+          deployed by maheen rao
         </p>
         <a
           className="App-link"
