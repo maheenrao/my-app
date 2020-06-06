@@ -38,4 +38,4 @@ jobs:
       run: npm install -g surge
     
     - name: deploying on surge
-      run: surge ./ faint-bomb.surge.sh --token ${{secrets.Token}}
+      run: surge ./ like-able.surge.sh --token ${{secrets.Token}}
