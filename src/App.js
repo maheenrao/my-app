@@ -6,7 +6,7 @@ function App() {
     <div>
         <p>
          <h1>welcome to my first react</h1> 
-          deployed by maheen rao
+          deployed by Maheen Rao
         </p>
     </div>
   );
