@@ -7,6 +7,7 @@ function App() {
         <p>
          <h1>welcome to my first react</h1> 
           deployed by Maheen Rao
+          Student of PIAIC
         </p>
     </div>
   );
