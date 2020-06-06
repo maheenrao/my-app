@@ -38,4 +38,4 @@ jobs:
       run: npm install -g surge
     
     - name: deploying on surge
-      run: surge ./build  cumbersome-heart.surge.sh  --token ${{secrets.TOKEN}}
+      run: surge .\build  cruel-cream.surge.sh --token ${{secrets.TOKEN}}
