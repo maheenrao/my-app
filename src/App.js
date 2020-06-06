@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          welcome<code></code> to my first react.
+          welcome<code></code> to my first react anum is so lazy.
         </p>
         <a
           className="App-link"
