@@ -38,4 +38,4 @@ jobs:
       run: npm install -g surge
     
     - name: deploying on surge
-      run: surge ./my-app/build silly-sail.surge.sh --token ${{secrets.Token}}
+      run: surge ./my-app /build silly-sail.surge.sh --token ${{secrets.Token}}
