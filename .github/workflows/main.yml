@@ -38,4 +38,4 @@ jobs:
       run: npm install -g surge
     
     - name: deploying on surge
-      run: surge .\build wry-toothbrush.surge.sh --token ${{secrets.TOKEN}}
+      run: surge .\build faint-bomb.surge.sh --token ${{secrets.TOKEN}}
